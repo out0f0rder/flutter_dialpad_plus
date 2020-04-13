@@ -58,11 +58,10 @@ Note:
 
  
 
-![iOS Screenshot](screenshots/screenshot1.png?raw=true "iOS Screenshot") | ![Android Screenshot](screenshots/screenshot3.png?raw=true "Android Screenshot")
+![Android Screenshot](https://github.com/RaiAnsar/flutter_dialpad_plus/blob/master/screenshots/screenshot3.png?raw=true?raw=true "Android Screenshot")|![iOS Screenshot](https://github.com/RaiAnsar/flutter_dialpad_plus/blob/master/screenshots/screenshot1.png?raw=true?raw=true "iOS Screenshot")
+|:---:|:----:|
+| Android Screenshot| iOS Screenshot|
 
-|:---:|:---:|
-
-| iOS Screenshot | Android Screenshot |
 
   
 
