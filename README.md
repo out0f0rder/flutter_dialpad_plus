@@ -1,12 +1,12 @@
 # flutter_dialpad_plus
 
-This `package` is  fork of package [`flutter_dialpad`](https://pub.dev/packages/flutter_dialpad) with additional features which are mentioned at the bottom of documentation.
+This `package` is  fork of package [`flutter_dialpad`](https://pub.dev/packages/flutter_dialpad) with additional features and coming updates which are mentioned at the bottom of documentation.
 
   
 A phone dialer widget that can be added to any Flutter Application to enable ability to dial a number. This could be combined with a voip application to enable placing calls or number can be provided to any API e.g WhatsApp API.
 
 
-This is a purely Dart widget with no dependency on Android or iOS except for the flutter_dtmf package it uses for DTMF tone generation on pressing a button. You can turn it off my setting `enableDtmf: false`
+This is a purely Dart widget with no dependency on Android or iOS except for the `flutter_dtmf` package it uses for DTMF tone generation on pressing a button. You can turn it off my setting `enableDtmf: false`
 
 Note:
 

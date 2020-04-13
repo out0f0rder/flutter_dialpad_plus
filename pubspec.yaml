@@ -1,7 +1,7 @@
 name: flutter_dialpad_plus
 description: A phone dialer widget that can be added to any Flutter Application to enable ability to dial a number. This could be combined with a voip application to enable placing calls or number can be provided to any API e.g WhatsApp API.
 version: 0.0.1
-author: "Rai Ansar"
+# author: "Rai Ansar"
 publish_to: https://pub.dev/
 
 homepage: "https://flutterer.Dev"
