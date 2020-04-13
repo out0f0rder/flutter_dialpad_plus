@@ -1,3 +1,7 @@
+## [0.2.1] - 2020-04-14
+
+* Updated Version on pana suggestion.
+
 ## [0.0.2+1] - 2020-04-14
 
 * Updated Changelog
