@@ -1,3 +1,14 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.2+1] - 2020-04-14
 
-* TODO: Describe initial release.
+* Updated Changelog
+* Updated LICENCE
+* Updated Description
+
+## [0.0.1] - 2020-04-14
+
+*  Button Icon is fully customizable
+
+*  Every color is customizable.
+
+*  Long Pressing BackSpace clears Complete input.
+
